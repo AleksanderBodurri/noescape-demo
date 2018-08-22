@@ -1,6 +1,6 @@
 # noescape-demo
 
-Survive for aslong as you can!
+Survive for as long as you can!
 
 Requires Python 3.5x and PyGame to run.
 
